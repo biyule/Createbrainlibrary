@@ -1,2 +1,0 @@
-# Createbrainlibrary
-IQknowledge base
